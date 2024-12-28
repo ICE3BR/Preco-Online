@@ -1,0 +1,1 @@
+{'Preco': 4517.0, 'Data': '2024-12-28', 'Hora': '04:47:58', 'Voo': 'GRU-YYZ', 'Agencia': 'COPA', 'Tempo de Viagem': '14 h 45 min', 'Escalas': '1 parada'}
